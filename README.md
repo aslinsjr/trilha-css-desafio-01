@@ -16,7 +16,7 @@ Essa é a solução para o desafio da trilha de CSS da DIO.
 
 ### Screenshot
 
-![](images/screenshot.png)
+![](assets/images/Screenshot.png)
 
 ### Links
 
