@@ -196,6 +196,8 @@ footer a {
     font-weight: 900;
 }
 
+/* Mobile */
+
 @media screen and (max-width:500px) {
 
     .banner {
@@ -221,7 +223,7 @@ footer a {
 
     #course-content p,
     #inner-content img {
-        max-width: 500px;
+        max-width: 375px;
     }
 
     #course-content p {
